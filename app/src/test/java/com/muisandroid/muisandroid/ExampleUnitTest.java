@@ -1,4 +1,4 @@
-package com.ginsmile.calculatorpro;
+package com.muisandroid.muisandroid;
 
 import org.junit.Test;
 

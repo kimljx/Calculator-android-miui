@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/calculatorPro.iml" filepath="$PROJECT_DIR$/calculatorPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Calculator-android-miui.iml" filepath="$PROJECT_DIR$/.idea/modules/Calculator-android-miui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Calculator-android-miui.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Calculator-android-miui.app.iml" />
     </modules>
   </component>
 </project>

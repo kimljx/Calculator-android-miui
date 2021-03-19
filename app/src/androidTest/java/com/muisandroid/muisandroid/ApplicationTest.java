@@ -1,4 +1,4 @@
-package com.ginsmile.calculatorpro;
+package com.muisandroid.muisandroid;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
